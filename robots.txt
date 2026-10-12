@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modd-123.github.io/taituo-website/sitemap.xml
